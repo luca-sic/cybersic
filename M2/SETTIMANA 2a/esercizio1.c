@@ -10,12 +10,12 @@ int main() {
 
     scanf(" %c", &scelta);
 
-    if (scelta == 'B'|| scelta == 'b') {
+    if (scelta == 'B') {
         printf("Gioco terminato, arrivederci, Grazie!! \n");
         return 0;
     }
 
-    while (scelta == 'A' || == 'a') {
+    while (scelta == 'A') {
         inizio_gioco();
         print_menu();
         scanf(" %c", &scelta); 
