@@ -26,7 +26,7 @@ int main() {
 
 void print_menu() {
     printf("menù di avvio:\n");
-    printf("Premi A a  per iniziare un nuovo gioco \n Premi B b per uscire dal gioco!!\n");
+    printf("Premi A per iniziare un nuovo gioco \n Premi B per uscire dal gioco!!\n");
     printf("inserisci la lettera indicata *_* :\n");
 }
 
